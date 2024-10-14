@@ -17,7 +17,7 @@
 - https://github.com/tonsky/FiraCode/releases/tag/6.2
   - firacode 下载
 
-## 📝 notes - 配置步骤
+## 📒 notes - 配置步骤
 
 下面以配置 Fira Code 字体为例。
 
@@ -39,7 +39,7 @@
 
 重启 VSCode，如果本地已经安装了 Fira Code 字体，可以通过输入 `!=` 来测试一下，看下最终展示的效果是一个叹号加一个等号，还是展示一个不等号。如果是展示一个不等号，意味着本地已经有 Fira Code 字体了。
 
-## 📝 notes - Windows 设备，查看本地已经安装的字体
+## 📒 notes - Windows 设备，查看本地已经安装的字体
 
 - 按 `Win + R` 打开运行对话框。
 - 输入 `control` 并按回车键，打开控制面板。
@@ -50,7 +50,7 @@
 
 如果没有找到 Fira Code，则需要先安装。
 
-## 📝 notes - Windows - firacode 下载 + 安装步骤
+## 📒 notes - Windows - firacode 下载 + 安装步骤
 
 https://github.com/tonsky/FiraCode/releases/tag/6.2
 
