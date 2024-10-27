@@ -1,8 +1,12 @@
-# 0001. region 注释
+# [0001. region 注释](https://github.com/Tdahuyou/vscode/tree/main/0001.%20region%20%E6%B3%A8%E9%87%8A)
 
-## 📝 summary
+- 📝 summary
+  - 介绍了 region 注释是什么，有什么作用。
+  - 介绍了在 vsocde 中编写 region 注释的基本语法。
 
-- region 注释的格式非常简单，只需要在开始位置加上 region，结束位置加上 endregion I 即可。
+## 📒 notes
+
+- region 注释的格式非常简单，只需要在开始位置加上 region，结束位置加上 endregion 即可。
 - region 注释的作用：
   - 如果一个模块中含有的代码量比较多（比如大于 100 行），可以考虑使用区域注释的方式，对代码进行分组，方便阅读。
   - 区域注释的内容可以被折叠，对于那些逻辑已经清晰的代码块或者不那么重要的代码块，都可以使用区域注释进行折叠，这样或许可以更好地集中精力关注核心的代码块。

@@ -1,8 +1,8 @@
-# 0003. 修改编辑器的字体
+# [0003. 修改编辑器的字体为 Fira Code](https://github.com/Tdahuyou/vscode/tree/main/0003.%20%E4%BF%AE%E6%94%B9%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%AD%97%E4%BD%93%E4%B8%BA%20Fira%20Code)
 
-## 📝 summary
-
-在 Windows 上想要使用 Fira Code 字体时发现没生效，这篇文档记录了如何解决在 VSCode 中配置 Fira Code 的操作流程。
+- 📝 summary
+  - 在 Windows 上想要使用 Fira Code 字体时发现没生效，这篇文档记录了如何解决在 VSCode 中配置 Fira Code 的操作流程。
+  - 该笔记以配置 Fira Code 字体为例来介绍，其它类型的字体文件也可以按照相同的步骤进行配置。
 
 ## 🔗 links
 
