@@ -1,9 +1,11 @@
 # [0004. 配置 Confirm Delete](https://github.com/Tdahuyou/vscode/tree/main/0004.%20%E9%85%8D%E7%BD%AE%20Confirm%20Delete)
 
-- 📝 summary
-  - 需要知道删除文件时弹出的确认提示框如何配置是否开启。
+<!-- region:toc -->
+- [1. 📒 配置 Confirm Delete](#1--配置-confirm-delete)
+<!-- endregion:toc -->
+- 需要知道删除文件时弹出的确认提示框如何配置是否开启。
 
-## 📒 notes
+## 1. 📒 配置 Confirm Delete
 
 - 在 vsocde 中删除文件，默认会弹出确认提示框，若有在 vsocde 中频繁删除文件的需求，可能会勾选【不再询问】，若勾选了，那么接下来每次删除内容的时候，就不会再弹出提示框了。
   - ![](md-imgs/2024-10-27-22-31-09.png)
@@ -15,3 +17,4 @@
 - 问题：如果还想恢复确认提示的话，应该怎么做？
   - 这东西是可以支持配置的，打开【设置】，搜索 delete，找到 Confirm Delete 选项，勾选上确认提示框即可。
   - ![](md-imgs/2024-10-27-22-31-12.png)
+
