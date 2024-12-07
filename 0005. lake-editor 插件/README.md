@@ -1,4 +1,4 @@
-# 0005. lake-editor 插件
+# [0005. lake-editor 插件](https://github.com/Tdahuyou/vscode/tree/main/0005.%20lake-editor%20%E6%8F%92%E4%BB%B6)
 
 - 一款在 vsocde 中编写语雀文档的插件。
 
