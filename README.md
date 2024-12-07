@@ -7,6 +7,7 @@ vscode 学习笔记。
   - [1. 🔗 links](#1--links)
   - [2. 注释管理](#2-注释管理)
   - [3. 标签管理](#3-标签管理)
+  - [4. ⏰ 待分组](#4--待分组)
 <!-- endregion:toc -->
 
 ## 1. 🔗 links
@@ -42,9 +43,7 @@ vscode 学习笔记。
     - 需要知道删除文件时弹出的确认提示框如何配置是否开启。
   
 
-
-
-## ⏰ 待分组
+## 4. ⏰ 待分组
 
 - [ ] [0005. lake-editor 插件](https://github.com/Tdahuyou/vscode/tree/main/0005.%20lake-editor%20%E6%8F%92%E4%BB%B6/README.md) <!-- [locale](./0005.%20lake-editor%20%E6%8F%92%E4%BB%B6/README.md) -->  
   - 一款在 vsocde 中编写语雀文档的插件。
