@@ -4,5 +4,11 @@
         "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=vscode",
         "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=vscode",
         "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=vscode"
+    },
+    "tnotesConfig": {
+      "ignoreDirs": [
+        ".vscode",
+        ".git"
+      ]
     }
 }
