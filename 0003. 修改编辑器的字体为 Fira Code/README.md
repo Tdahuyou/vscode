@@ -4,7 +4,7 @@
 - [1. 🔗 links](#1--links)
 - [2. 📒 配置步骤](#2--配置步骤)
 - [3. 📒 Windows 设备，查看本地已经安装的字体](#3--windows-设备查看本地已经安装的字体)
-- [4. 📒 Windows - firacode 下载 + 安装步骤](#4--windows---firacode-下载-+-安装步骤)
+- [4. 📒 Windows - firacode 下载 + 安装步骤](#4--windows---firacode-下载--安装步骤)
 - [5. 💻 测试](#5--测试)
 - [6. 🤖 AI - Windows 设备，如何检查 fira code 是否已经安装？](#6--ai---windows-设备如何检查-fira-code-是否已经安装)
   - [6.1. 方法 1: 使用控制面板](#61-方法-1-使用控制面板)
