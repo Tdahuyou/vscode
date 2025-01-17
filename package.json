@@ -39,6 +39,11 @@
         "done": false,
         "ignore": false
       },
+      "0006": {
+        "bilibili": [],
+        "done": true,
+        "ignore": false
+      },
       "assets": {
         "ignore": true
       },

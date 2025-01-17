@@ -8,6 +8,7 @@ vscode 学习笔记。
   - [2. 注释管理](#2-注释管理)
   - [3. 标签管理](#3-标签管理)
   - [4. 插件](#4-插件)
+  - [5. 常见问题及解决方案](#5-常见问题及解决方案)
 <!-- endregion:toc -->
 
 ## 1. 🔗 links
@@ -58,4 +59,11 @@ vscode 学习笔记。
 
 - [ ] [0005. lake-editor 插件](https://github.com/Tdahuyou/vscode/tree/main/0005.%20lake-editor%20%E6%8F%92%E4%BB%B6/README.md) <!-- [locale](./0005.%20lake-editor%20%E6%8F%92%E4%BB%B6/README.md) -->  
   - 一款在 vsocde 中编写语雀文档的插件。
+  
+
+## 5. 常见问题及解决方案
+
+- [x] [0006. 解决文件、目录发生变化时，vscode 卡死的问题](https://github.com/Tdahuyou/vscode/tree/main/0006.%20%E8%A7%A3%E5%86%B3%E6%96%87%E4%BB%B6%E3%80%81%E7%9B%AE%E5%BD%95%E5%8F%91%E7%94%9F%E5%8F%98%E5%8C%96%E6%97%B6%EF%BC%8Cvscode%20%E5%8D%A1%E6%AD%BB%E7%9A%84%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./0006.%20%E8%A7%A3%E5%86%B3%E6%96%87%E4%BB%B6%E3%80%81%E7%9B%AE%E5%BD%95%E5%8F%91%E7%94%9F%E5%8F%98%E5%8C%96%E6%97%B6%EF%BC%8Cvscode%20%E5%8D%A1%E6%AD%BB%E7%9A%84%E9%97%AE%E9%A2%98/README.md) -->  
+  - [1. 📒 文件重命名卡死的解决方案 - 将 Files Participants Timeout 配置为 0 即可](https://github.com/Tdahuyou/vscode/tree/main/0006.%20%E8%A7%A3%E5%86%B3%E6%96%87%E4%BB%B6%E3%80%81%E7%9B%AE%E5%BD%95%E5%8F%91%E7%94%9F%E5%8F%98%E5%8C%96%E6%97%B6%EF%BC%8Cvscode%20%E5%8D%A1%E6%AD%BB%E7%9A%84%E9%97%AE%E9%A2%98/README.md#1--文件重命名卡死的解决方案---将-files-participants-timeout-配置为-0-即可)
+  - [2. 📒 目录重命名卡死的解决方案 - Unlock with File Locksmith](https://github.com/Tdahuyou/vscode/tree/main/0006.%20%E8%A7%A3%E5%86%B3%E6%96%87%E4%BB%B6%E3%80%81%E7%9B%AE%E5%BD%95%E5%8F%91%E7%94%9F%E5%8F%98%E5%8C%96%E6%97%B6%EF%BC%8Cvscode%20%E5%8D%A1%E6%AD%BB%E7%9A%84%E9%97%AE%E9%A2%98/README.md#2--目录重命名卡死的解决方案---unlock-with-file-locksmith)
   
