@@ -1,14 +1,14 @@
 {
-    "scripts": {
-        "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=vscode",
-        "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=vscode",
-        "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=vscode",
-        "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=vscode"
-    },
-    "tnotesConfig": {
-      "ignoreDirs": [
-        ".vscode",
-        ".git"
-      ]
-    }
+  "scripts": {
+    "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=vscode",
+    "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=vscode",
+    "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=vscode",
+    "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=vscode"
+  },
+  "tnotesConfig": {
+    "ignoreDirs": [
+      ".vscode",
+      ".git"
+    ]
+  }
 }
